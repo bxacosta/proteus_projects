@@ -1,0 +1,5 @@
+# PROTEUS BACKUP AND CONFIG FILES
+
+# ESP8266-01 Breadboard Adapter
+/esp8266_01_breadboard_adapter/*.pdsbak
+/esp8266_01_breadboard_adapter/*.workspace
